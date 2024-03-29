@@ -1,5 +1,5 @@
 package com.example.demo;
 
 public class Test {
-    private String memberTestVar;
+    private String mainBranch;
 }
